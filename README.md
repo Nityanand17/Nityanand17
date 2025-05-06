@@ -1,5 +1,5 @@
 <img src="banner_github.png" alt="GitHub Banner" width="100%"  />
-<img src="[banner_github.png](https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif)" alt="GitHub Banner" width="100%"  />
+<img src="https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif" alt="GitHub Banner" width="100%"  />
 
 # Hello World!, I'm Nityanand , a tech learner👋🏼:
 
